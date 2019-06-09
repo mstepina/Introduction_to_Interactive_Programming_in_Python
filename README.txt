@@ -32,6 +32,9 @@ http://www.codeskulptor.org/#user46_3WX18Q7TNkijPsg.py
 
 
 Week 6 project: Blackjack
+http://www.codeskulptor.org/#user46_lnusHOnYsc6HHMv.py
+BONUS: with dogs
+
 
 
 Weeks 7 and 8 projects: Spaceship -> RiceRocks (Asteroids)
