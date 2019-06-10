@@ -1,5 +1,6 @@
 
 "An Introduction to Interactive Programming in Python" is the course offered by Coursera and Rice University. 
+https://www.coursera.org/learn/interactive-python-1/home/welcome
 The focus is on building interactive games such as Pong, Blackjack and Asteroids.
 
 Note: code can be executed at www.codeskulptor.org since it uses simplegui which is a javascript library built by Rice University.
