@@ -40,6 +40,6 @@ BONUS: with dogs
 http://www.codeskulptor.org/#user46_sdgrjE5PD9U6Vbq.py
 
 
-Weeks 7 and 8 projects: Spaceship -> "RiceRocks" ("Asteroids")
+Weeks 7 and 8 projects: Spaceship -> "Rice Rocks" ("Asteroids")
 http://www.codeskulptor.org/#user46_zN2wBdMEvYJ9Fsm.py (initial phase)
 http://www.codeskulptor.org/#user46_RDfI4lkgec14Y5L.py (full game)
